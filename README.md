@@ -20,7 +20,7 @@
 </div>
 
 
-# 🔥 Streak stats
+# ⚡ Github Stats
 
 <div align="center">
   
