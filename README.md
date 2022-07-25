@@ -4,6 +4,5 @@
 </h3>
 
 <div align="center">
-  ![Welcome to Norean's profile!](https://bam-readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25+&duration=2000&center=true&vCenter=true&multiline=true&width=500&height=40&lines=Welcome%2C+to%2C+Norean's%2C+profile%2C!;+;+)      
-
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=72C9E4&size=24&center=true&vCenter=true&lines=Abracadabra;Bibbidi-Bobbidi-Boo;Sim+Sala+Bim;Shazam;Hocus+Pocus;Alakazam)](https://github.com/DenverCoder1/readme-typing-svg)
 </div>
