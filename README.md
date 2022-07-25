@@ -9,5 +9,5 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=72C9E4&size=24&center=true&vCenter=true&lines=Niger%2C+Black;Bibbidi-Bobbidi-Boo;Sim+Sala+Bim;Shazam;Hocus+Pocus;Alakazam)](https://github.com/DenverCoder1/readme-typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=72C9E4&size=24&center=true&vCenter=true&lines=Niger%2CBlack;Bibbidi-Bobbidi-Boo;Sim+Sala+Bim;Shazam;Hocus+Pocus;Alakazam)](https://github.com/DenverCoder1/readme-typing-svg)
 </div>
