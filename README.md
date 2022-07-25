@@ -4,5 +4,5 @@
 </h3>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Nerd+Font&size=25&center=true&vCenter=true&lines=Beginner+developer;Discord+bots+creator;Love+coding;Python%2C+Java+Script%2C+C%2B%2B%2C+C%23+++;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Nerd+Font&size=30&center=true&vCenter=true&lines=Beginner+developer;Discord+bots+creator;Love+coding;Python%2C+Java+Script%2C+C%2B%2B%2C+C%23+++;Always+learning+new+things)](https://git.io/typing-svg)
 
