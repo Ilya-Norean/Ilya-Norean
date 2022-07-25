@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=72C9E4&size=24&center=false&vCenter=false&lines=Beginner+coder;Discord+Bots+creator;Always+learning+new+things)](https://github.com/DenverCoder1/readme-typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=72C9E4&size=24&center=true&vCenter=true&lines=Beginner+coder;Discord+Bots+creator;Always+learning+new+things)](https://github.com/DenverCoder1/readme-typing-svg)
 </div>
 
 # 🔥 Streak stats
