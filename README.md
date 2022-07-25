@@ -9,5 +9,5 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=72C9E4&size=24&center=true&vCenter=true&lines=Beginner+developer;Love+Coding;Python+C%2B&2B&;Always+learning+new+things)](https://github.com/DenverCoder1/readme-typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=72C9E4&size=24&center=true&vCenter=true&lines=Beginner+developer;Love+Coding;Python+C%23&+++;Always+learning+new+things)](https://github.com/DenverCoder1/readme-typing-svg)
 </div>
