@@ -15,16 +15,18 @@
 # 🔥 Streak stats
 
 
+<div align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ilya-Norean&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
-
+</div>
 
 # ⚡ Github Stats
 
 
+<div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilya-Norean&show_icons=true&theme=radical)
   
-
+</div>
 
