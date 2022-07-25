@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Beginner+programmer;;;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Beginner+programmer;Discord+Bots+creator;;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
 # 🔥 Streak stats
