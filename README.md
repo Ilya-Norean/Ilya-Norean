@@ -13,7 +13,6 @@
 </div>
 
 # 🔥 Streak stats
-------------
 
 <div align="center">
   
