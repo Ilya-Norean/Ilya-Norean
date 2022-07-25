@@ -3,11 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
 </h1>
 
-
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=72C9E4&size=24&center=true&vCenter=true&lines=Beginner+coder;Discord+Bots+creator;Always+learning+new+things)](https://github.com/DenverCoder1/readme-typing-svg)
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50">
+</p>
 
 # 🔥 Streak stats
 
