@@ -13,16 +13,25 @@
 
 # 🔥 Streak stats
 
+<div align = 'center'>
+
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ilya-Norean&theme=dracula&hide_border=false)
 
+</div>
 
 # ⚡ Github Stats
 
+<div align = 'center'>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilya-Norean&show_icons=true&theme=dracula)
   
+</div>
 
 # 🏆 GitHub Trophies
 
-![Commits](https://github-profile-trophy.vercel.app/?username=Ilya-Norean&title=Commits,PullRequest,Repositories&theme=dracula&margin-w=15)
 
+<div align = 'center'>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=Ilya-Norean&theme=dracula&margin-w=15)
+
+</div>
