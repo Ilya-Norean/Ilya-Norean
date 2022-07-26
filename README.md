@@ -1,5 +1,5 @@
 <p align = 'center'>
-  <img src = 'https://github.com/Ilya-Norean/Ilya-Norean/blob/main/assets/header-city.gif'>
+  <img src = 'https://github.com/Ilya-Norean/Ilya-Norean/blob/main/assets/header-bar.gif'>
 </p>
 
 <h1 align="center">
