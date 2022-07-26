@@ -1,3 +1,7 @@
+<p align = 'center'>
+  <img src = 'https://github.com/Ilya-Norean/Ilya-Norean/blob/main/assets/header-city.gif'>
+</p>
+
 <h1 align="center">
   Welcome to Noreån's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
