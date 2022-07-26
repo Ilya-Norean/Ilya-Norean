@@ -29,8 +29,3 @@
   
 </div>
 
-# 🏆 GitHub Trophies
-
-![Commits](https://github-profile-trophy.vercel.app/?username=Ilya-Norean&title=Commits&theme=dracula)
-
-![PullRequest](https://github-profile-trophy.vercel.app/?username=Ilya-Norean&title=PullRequest&theme=dracula)
