@@ -31,8 +31,8 @@
 
 # 🏆 GitHub Trophies
 
-<div margin left = '150'>
+<div align='center'>
 
-![Commits](https://github-profile-trophy.vercel.app/?username=Ilya-Norean&title=Commits,PullRequest,Repositories&theme=dracula&margin-w=15)
+![Commits](https://github-profile-trophy.vercel.app/?username=Ilya-Norean&title=Commits,PullRequest,Repositories&theme=dracula&margin-w=15&center=true)
 
 </div>
