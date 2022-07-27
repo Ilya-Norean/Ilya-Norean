@@ -20,14 +20,3 @@
 
 </p>
 
-# 📊 Anurag's GitHub stats
-
-<p align="center">
-
-<a href = 'https://github-readme-stats.vercel.app/api?username=Ilya-Norean&show_icons=true&theme=dracula'></a>
-
-</p>
-
-#  🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Ilya-Norean&theme=dracula&margin-w=15)
