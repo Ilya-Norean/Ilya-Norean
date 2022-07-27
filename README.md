@@ -16,8 +16,15 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Ilya-Norean&theme=dracula&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Ilya-Norean&theme=dracula&hide_border=false"/>
   </a>
-  
+</p>
+
+# 🔮 Anurag's GitHub stats
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-stats.vercel.app/api?username=Ilya-Norean&show_icons=true&theme=dracula"/>
+  </a>
 </p>
 
