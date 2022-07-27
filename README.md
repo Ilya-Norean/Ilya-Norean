@@ -8,11 +8,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Beginner+programmer;Discord+Bots+creator;Python❤;Always+learning+new+things&font=Fira%20Code&color=fd428d&center=true&width=380&height=50">
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Beginner+programmer;Discord+Bots+creator;Python❤;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Beginner+programmer;Discord+Bots+creator;Python❤;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=fd428d&vCenter=true&size=22"></a>
 </p>
 
