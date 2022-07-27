@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Ilya-Norean&theme=dracula&hide_border=false"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Ilya-Norean&theme=dracula&hide_border=true"/>
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-stats.vercel.app/api?username=Ilya-Norean&show_icons=true&theme=dracula"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-stats.vercel.app/api?username=Ilya-Norean&show_icons=true&theme=dracula&hide_border=true"/>
   </a>
 </p>
 
