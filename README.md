@@ -12,11 +12,11 @@
 </p>
 
 
-# 💣 GitHub Streak
+# 🔥 Streak stats 
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Ilya-Norean&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Ilya-Norean&theme=dracula&hide_border=true"/>
   </a>
   
 </p>
