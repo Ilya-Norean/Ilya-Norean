@@ -30,8 +30,8 @@
 
 #  🏆 GitHub Trophies
 
-<p align="center">
+<h4 align="center">
 
 <img src = 'https://github-profile-trophy.vercel.app/?username=Ilya-Norean&theme=dracula&margin-w=15'>
 
-</p>
+</h4>
