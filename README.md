@@ -16,7 +16,7 @@
 
 <p align="center">
 
-<a href = 'http://github-readme-streak-stats.herokuapp.com?user=Ilya-Norean&theme=dracula&hide_border=false'></a>
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ilya-Norean&theme=dracula&hide_border=false)
 
 </p>
 
