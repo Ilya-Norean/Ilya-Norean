@@ -32,6 +32,6 @@
 
 <p align="center">
 
-<a href = 'https://github-profile-trophy.vercel.app/?username=Ilya-Norean&theme=dracula&margin-w=15'></a>
+<img src = 'https://github-profile-trophy.vercel.app/?username=Ilya-Norean&theme=dracula&margin-w=15'>
 
 </p>
