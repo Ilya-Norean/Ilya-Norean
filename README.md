@@ -11,3 +11,27 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Beginner+programmer;Discord+Bots+creator;Python❤;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=fd428d&vCenter=true&size=22"></a>
 </p>
 
+
+# 💣 GitHub Streak
+
+<p align="center">
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ilya-Norean&theme=dracula&hide_border=false)
+
+</p>
+
+# 📊 Anurag's GitHub stats
+
+<p align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilya-Norean&show_icons=true&theme=dracula)
+
+</p>
+
+#  🏆 GitHub Trophies
+
+<p align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Ilya-Norean&theme=dracula&margin-w=15)
+
+</p>
