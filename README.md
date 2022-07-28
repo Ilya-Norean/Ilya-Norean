@@ -23,8 +23,8 @@
 # 🔮 Anurag's GitHub stats
 
 <p align="center">
-
-    <img src="https://github-readme-stats.vercel.app/api?username=Ilya-Norean&show_icons=true&theme=dracula&hide_border=true"/>
-
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api?username=Ilya-Norean&show_icons=true&theme=dracula&hide_border=true">
+  </a>
 </p>
 
