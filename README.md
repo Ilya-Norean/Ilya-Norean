@@ -11,6 +11,15 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Beginner+programmer;Discord+Bots+creator;Python❤;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=fd428d&vCenter=true&size=22"></a>
 </p>
 
+# ✨ About Me
+
+```python
+def about_me():
+    Name = 'Noreån',
+    Favorive_Language = 'Python',
+    Now_Learn = 'C#',
+    Fun_Fact = 'I like sleep',
+```
 
 
 
