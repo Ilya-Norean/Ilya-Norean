@@ -18,7 +18,7 @@ def about_me():
     Name = 'Noreån',
     Favorive_Language = 'Python',
     Now_Learn = 'C#',
-    Fun_Fact = 'I like sleep',
+    
 ```
 
 
